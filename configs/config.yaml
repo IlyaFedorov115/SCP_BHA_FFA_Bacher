@@ -1,0 +1,5 @@
+pop_size: 20
+num_expt: 10
+max_iter: 1000
+discrete: elitist
+transfer: s3
