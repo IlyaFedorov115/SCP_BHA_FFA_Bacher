@@ -8,6 +8,8 @@
 
 ### *algoapp*
 Использование алгоритма на тестовом файле/файлах. Файлы должны иметь структуру, аналогичную 65-файлам http://people.brunel.ac.uk/~mastjjb/jeb/orlib/scpinfo.html
+
+
 **Использование:** 
 
 
@@ -90,6 +92,9 @@ user@bar:~$ ./pgexptapp -"user=dev_ password=0000 dbname=scpdb sslmode=disable"
 ```
 
 ### *configapp*
+
+Используется для настройки конфигурационного файла. Пример файла - директория *config*.
+
 **Использование:**
 
 
